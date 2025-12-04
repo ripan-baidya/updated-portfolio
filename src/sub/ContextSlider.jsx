@@ -3,11 +3,9 @@ import { useState, useEffect } from "react";
 
 const contexts = [
     "Hi, welcome to my portfolio",
-    "I build full-stack web applications",
+    "I am a Java Full Stack Developer",
     "I work with Spring Boot, Microservices, and React",
     "I build Cloud Native Applications",
-    "Reach out to me for Project, Collaboration, or Opportunities",
-    "Let's build Something great Together :)",
 ];
 
 
